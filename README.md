@@ -1,5 +1,7 @@
 # Visualization-Of-Energy-Generation-Of-US-For-Last-3-Decades
 
+#read the report for more information
+
 Data visualization is that the graphical illustration of information and data. By using visual components like charts, graphs, and maps, data visualization tools give an easier way see and perceive trends, outliers, and patterns information.
 
 In the world of huge information, data visualization tools and technologies are essential to investigate huge amounts of knowledge and build data-driven selections.
